@@ -2,6 +2,10 @@
 
 Deployed Site Link - https://mern-task-manager-delta.vercel.app/signup
 
+
+https://github.com/user-attachments/assets/855dd026-1e24-4bfa-b538-d793a1ea2564
+
+
 ## Introduction
 The *Task Manager Application* is a comprehensive productivity tool designed to help users manage, track, and organize their tasks efficiently. Built using the *MERN stack* (MongoDB, Express.js, ReactJs, and Node.js), this application allows users to create, update, delete, and categorize tasks with ease. It also offers the ability to mark tasks as completed and ensures secure data handling and seamless user experience.
 
