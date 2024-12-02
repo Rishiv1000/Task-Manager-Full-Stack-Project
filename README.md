@@ -5,7 +5,9 @@ Deployed Site Link - https://mern-task-manager-delta.vercel.app/signup
 
 
 
-https://github.com/user-attachments/assets/8ac4b48d-9d5f-40f4-9ba5-01779178695f
+https://github.com/user-attachments/assets/84f70799-762d-4e73-bd4a-d534694d09b3
+
+
 
 
 
