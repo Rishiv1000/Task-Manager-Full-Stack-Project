@@ -1,7 +1,6 @@
 # Task Manager Application
 
-Deployed Site Link - https://mern-task-manager-delta.vercel.app/signup
-
+Deployed Site Link - https://mern-task-manager-web-app.vercel.app/signup
 
 
 
