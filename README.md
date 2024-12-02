@@ -95,20 +95,4 @@ Backend: The backend will be accessible at http://localhost:1000.<br/>
 Frontend: The frontend will be accessible at http://localhost:3000.<br/>
 You can now open your browser and start using the Task Manager Application.<br/> <hr/>
 
-#### Signup Page
-
-<br/> <hr/>
-
-#### Login Page
-<br/> <hr/>
-
-#### Update Functionality
-
-<br/> <hr/>
-
-#### Main Page
-
-<br/> <hr/>
-
-
 
