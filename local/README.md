@@ -1,6 +1,4 @@
-# Task Manager Application
-
-Deployed Site Link - https://mern-task-manager-web-app.vercel.app/signup
+make .env file and then  paste it -
 
 
-
+mongodb+srv://rishiv1000:<db_password>@taskmanager.xclgv.mongodb.net/?retryWrites=true&w=majority&appName=taskmanager
